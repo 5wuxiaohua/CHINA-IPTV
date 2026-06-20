@@ -1,1 +1,103 @@
-测试
+#EXTM3U
+
+# ===== 央视 =====
+
+#EXTINF:-1 group-title="央视",CCTV1 综合
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226032/1.m3u8
+
+#EXTINF:-1 group-title="央视",CCTV2 财经
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226217/1.m3u8
+
+#EXTINF:-1 group-title="央视",CCTV3 综艺
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225967/1.m3u8
+
+#EXTINF:-1 group-title="央视",CCTV4 中文国际
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225694/1.m3u8
+
+#EXTINF:-1 group-title="央视",CCTV5 体育
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225970/1.m3u8
+
+#EXTINF:-1 group-title="央视",CCTV5+ 体育赛事
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226199/1.m3u8
+
+#EXTINF:-1 group-title="央视",CCTV6 电影
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225826/1.m3u8
+
+#EXTINF:-1 group-title="央视",CCTV7 国防军事
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226035/1.m3u8
+
+#EXTINF:-1 group-title="央视",CCTV8 电视剧
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225976/1.m3u8
+
+#EXTINF:-1 group-title="央视",CCTV9 纪录
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225930/1.m3u8
+
+#EXTINF:-1 group-title="央视",CCTV10 科教
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226118/1.m3u8
+
+#EXTINF:-1 group-title="央视",CCTV13 新闻
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226041/1.m3u8
+
+#EXTINF:-1 group-title="央视",CCTV14 少儿
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225974/1.m3u8
+
+#EXTINF:-1 group-title="央视",CCTV15 音乐
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225971/1.m3u8
+
+#EXTINF:-1 group-title="央视",CCTV16 奥林匹克
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225871/1.m3u8
+
+#EXTINF:-1 group-title="央视",CCTV17 农业农村
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225706/1.m3u8
+
+# ===== 热门卫视 =====
+
+#EXTINF:-1 group-title="卫视",北京卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225856/1.m3u8
+
+#EXTINF:-1 group-title="卫视",东方卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225780/1.m3u8
+
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225981/1.m3u8
+
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226029/1.m3u8
+
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226226/1.m3u8
+
+#EXTINF:-1 group-title="卫视",广东卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225969/1.m3u8
+
+#EXTINF:-1 group-title="卫视",山东卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225931/1.m3u8
+
+#EXTINF:-1 group-title="卫视",辽宁卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225998/1.m3u8
+
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225978/1.m3u8
+
+#EXTINF:-1 group-title="卫视",四川卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225999/1.m3u8
+
+# ===== 山西本地 =====
+
+#EXTINF:-1 group-title="山西",山西卫视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226150/1.m3u8
+
+#EXTINF:-1 group-title="山西",山西黄河
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226239/1.m3u8
+
+#EXTINF:-1 group-title="山西",山西影视
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226225/1.m3u8
+
+#EXTINF:-1 group-title="山西",山西经济与科技
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226242/1.m3u8
+
+#EXTINF:-1 group-title="山西",山西社会与法治
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226337/1.m3u8
+
+#EXTINF:-1 group-title="山西",山西文体生活
+http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226424/1.m3u8
